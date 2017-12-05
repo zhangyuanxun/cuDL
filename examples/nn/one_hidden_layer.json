@@ -1,0 +1,16 @@
+{
+    "Input":
+    {
+        "name": "data",
+        "top": "data",
+        "shape": [5, 1, 1, 4],
+        "path": "/Users/yuanxunzhang/workspace/cuDL/examples/nn/toy_data.txt"
+    },
+    "InnerProduct":
+    {
+    	"name": "ip",
+    	"bottom": "data",
+    	"top": "ip",
+        "num_output": 50
+    }
+}

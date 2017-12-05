@@ -1,1 +1,1 @@
-# cuDL:A Deep Learning framework
+# cuDL: A Deep Learning framework 
